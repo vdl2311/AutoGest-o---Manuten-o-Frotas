@@ -1,0 +1,8 @@
+{
+  "name": " AutoGestão - Manutenção \u0026 Frotas",
+  "description": "Sistema completo para gestão de veículos, controle de gastos de manutenção, alertas preventivos e relatórios financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
